@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:leonard.carvalhosw7@gmail.com)
+[![E-mail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:leonardo.carvalhosw7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leonardo2006/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/_oisilvaa_/)
